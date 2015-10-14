@@ -1,0 +1,5 @@
+Component: main
+Origin: grnds-apt
+Label: grnds-apt
+Architecture: source
+Description: Grand Rounds APT repository
