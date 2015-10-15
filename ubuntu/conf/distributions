@@ -1,9 +1,9 @@
 Origin: grnds-apt
 Label: grnds-apt
 Codename: trusty
-Architectures: i386 amd64 source
-Components: main
+Architectures: i386 amd64
+Components: main contrib
 Description: Grand Rounds APT repository
 SignWith: 96C4087F4DDF05BEF5C1ACCACD4AC0F7DC18C361
 Tracking: minimal
-Update: zulip
+Update: zulip virtualbox

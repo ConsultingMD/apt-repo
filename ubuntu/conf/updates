@@ -5,3 +5,10 @@ Method: http://apt.zulip.com/user/
 FilterList: deinstall zulip-imports.list
 VerifyRelease: 878708B2
 
+Name: virtualbox
+Suite: trusty
+Components: contrib
+Method: http://download.virtualbox.org/virtualbox/debian
+FilterList: deinstall virtualbox-imports.list
+VerifyRelease: 98AB5139
+
