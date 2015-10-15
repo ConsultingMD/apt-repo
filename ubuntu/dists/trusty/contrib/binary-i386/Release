@@ -1,0 +1,5 @@
+Component: contrib
+Origin: grnds-apt
+Label: grnds-apt
+Architecture: i386
+Description: Grand Rounds APT repository
