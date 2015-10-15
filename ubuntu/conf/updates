@@ -1,0 +1,7 @@
+Name: zulip
+Suite: trusty
+Components: main
+Method: http://apt.zulip.com/user/
+FilterList: deinstall zulip-imports.list
+VerifyRelease: 878708B2
+
