@@ -3,12 +3,12 @@ Suite: trusty
 Components: main
 Method: http://apt.zulip.com/user/
 FilterList: deinstall zulip-imports.list
-VerifyRelease: 878708B2
+VerifyRelease: 365B2F26AAC9C063D22AC20F468CE234878708B2
 
 Name: virtualbox
 Suite: trusty
 Components: contrib
 Method: http://download.virtualbox.org/virtualbox/debian
 FilterList: deinstall virtualbox-imports.list
-VerifyRelease: 98AB5139
+VerifyRelease: 7B0FAB3A13B907435925D9C954422A4B98AB5139
 
