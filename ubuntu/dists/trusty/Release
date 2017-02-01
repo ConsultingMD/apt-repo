@@ -1,37 +1,46 @@
 Origin: grnds-apt
 Label: grnds-apt
 Codename: trusty
-Date: Wed, 14 Oct 2015 20:58:19 UTC
+Date: Fri, 16 Oct 2015 19:12:46 UTC
 Architectures: i386 amd64
-Components: main
+Components: main contrib
 Description: Grand Rounds APT repository
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  cc61a682ce9e1662479638a779dd9f3e 111 main/binary-i386/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ f7333d69956d17563fcae640328d50cc 1207 main/binary-amd64/Packages
+ c47e7d7383a02d740d1f1fc892dbc08f 708 main/binary-amd64/Packages.gz
  d632061a4b206e06b3cbe5f4305b63df 112 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
- 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
- e31e1b043e14c4c51b82b019dfc66300 113 main/source/Release
+ 0e27ecb1e1fc51cb1b6a44453e7c2c65 1638 contrib/binary-i386/Packages
+ c35f409487dc4c0ad9750e7322f9ae85 924 contrib/binary-i386/Packages.gz
+ 1d344773484f06db4e6c29432b153fc3 114 contrib/binary-i386/Release
+ c7a86db7bd643c78f4f6e1ad8bd80f16 1640 contrib/binary-amd64/Packages
+ d71b09c7e65de3f324a9ce0268f990ca 928 contrib/binary-amd64/Packages.gz
+ 0c9722d4ec0d11753e9f332149c46099 115 contrib/binary-amd64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  d7cc6ebe9d2a91d59a3cac898137ec88cbc48c84 111 main/binary-i386/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 0bccf9525ba51659a159a753b24825c593096efc 1207 main/binary-amd64/Packages
+ 6d6f5c79a6d8921339a66e795ac2cf4ee1d9a93c 708 main/binary-amd64/Packages.gz
  6e37db4c171158ad31a108b21426b6b7a9142629 112 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
- 1d910a9ba9d897a619fb8106d983127cb97f0f91 113 main/source/Release
+ 60c2ba0c580097240a62aabe4481af630e120b66 1638 contrib/binary-i386/Packages
+ b360bbed76097dfaf306d3e20c88e318f1d5fe95 924 contrib/binary-i386/Packages.gz
+ 8726abe78846834ae1180fac533942eb61bfc3df 114 contrib/binary-i386/Release
+ aa6ca3db1b04c7192de9f2da9a4ee3ea55f82c6a 1640 contrib/binary-amd64/Packages
+ 895c7b7ce4f5741e316dc9d96bb6f6685ef8d27a 928 contrib/binary-amd64/Packages.gz
+ b6bf88b9fc73dfb45167bfd933d129533fd672b8 115 contrib/binary-amd64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  50c3401d056c6f50671b9cb2dab56cd0c87051da9af2892a5eddedaf8a4f9715 111 main/binary-i386/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 71696b0ea634c09949d456584c1c93473b6b281c6c6d21779d7b381136e87706 1207 main/binary-amd64/Packages
+ 3cc0e5eacc13e0ba5c39fc451c5c5c55f9c34c03025a8ce2d2355d5705876566 708 main/binary-amd64/Packages.gz
  6a283a910d53b625a4ddb9ffb6fe18bdccf94a0d006ceb982ceaaf4383ebcff6 112 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
- 2f8fe8a2de2e85096d034716428e31577d1aaf00763f8c8b7789609dac80ae50 113 main/source/Release
+ eb21e42f2f6679ec47f58b4e1d61f34161df64fd7dac7bdd40a176b7817f8ed1 1638 contrib/binary-i386/Packages
+ 06c70a4f46b49fa3bb032544b2a59afaeb64e0ab97830c72ae7aa8f8205b6605 924 contrib/binary-i386/Packages.gz
+ 3d1455d6b0992fb280a24ccc436f7873e907904695c0132e31fe5f96af9ec3a4 114 contrib/binary-i386/Release
+ ad5f5a6f3977ac0642c1b0638107716c19ce97adbab837e1536459b94a5496fa 1640 contrib/binary-amd64/Packages
+ 4efe2ad506835e95c30d41e90c9ba24bdee4343caded69d3f286fef0f3314889 928 contrib/binary-amd64/Packages.gz
+ 3a76af745f3466a25ee45eb1ebcd2d569109e19b25d369284091ffaf490d61be 115 contrib/binary-amd64/Release

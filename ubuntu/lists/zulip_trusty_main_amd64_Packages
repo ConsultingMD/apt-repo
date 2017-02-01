@@ -1,3 +1,23 @@
+Package: zulip-desktop
+Version: 0.4.4
+Architecture: amd64
+Maintainer: Zulip <support@zulip.com>
+Installed-Size: 3035
+Depends: libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libphonon4 (>= 4:4.2.0), libqt4-network (>= 4:4.8.0), libqt4-svg (>= 4:4.5.3), libqt4-xml (>= 4:4.5.3), libqt4-xmlpatterns (>= 4:4.5.3), libqtcore4 (>= 4:4.7.0~beta1), libqtgui4 (>= 4:4.8.0), libqtwebkit4 (>= 2.1.0~2011week13), libstdc++6 (>= 4.4.0), phonon
+Conflicts: zulip-desktop-sso
+Replaces: humbug-desktop
+Homepage: https://zulip.com/apps
+Priority: extra
+Section: comm
+Filename: pool/main/z/zulip-desktop/zulip-desktop_0.4.4_amd64.deb
+Size: 1254530
+SHA256: 863f53fe0b14d1aeed4bc6b30ba3a773a17e8f12a429b73fb9156b91b9b25bed
+SHA1: 6a7b0a09e2c68ce48d44446683a077b1ea9568d4
+MD5sum: 07026dc185bcaa57a990132046c3668e
+Description: Zulip desktop client
+ This package provides a thin wrapper around the Zulip web application,
+ providing native integrations with the desktop.
+
 Package: zulip-desktop-sso
 Source: zulip-desktop
 Version: 0.4.3

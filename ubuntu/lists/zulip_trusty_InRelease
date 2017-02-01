@@ -1,0 +1,57 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: zulip-users
+Label: zulip-users
+Codename: trusty
+Date: Fri, 21 Feb 2014 15:19:47 UTC
+Architectures: amd64 i386
+Components: main
+Description: Apt repository for users of Zulip
+MD5Sum:
+ 708db078025a2f9106c046e9b9b218f1 2145 main/binary-amd64/Packages
+ 02712a52ee12175cfda96ca35f504bd0 860 main/binary-amd64/Packages.gz
+ cb98b1741690c72792a8a1feaf763aea 122 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 1677e05e57758726a92c7ee816dc53d6 121 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 717d4af7f7e63e913644f868d1061823 123 main/source/Release
+SHA1:
+ 7ebc913c388a15c60e68bd2daa4f810e547d8c6b 2145 main/binary-amd64/Packages
+ c73b5e8a93b0137d45e7c40b488d154c8047921e 860 main/binary-amd64/Packages.gz
+ 776820500591534aba24f491d6649aa9e1a0b15a 122 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ dfcd7e2d887ad656a3a00d773475de3d6c9f0e3d 121 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ ca27de18b136283774f85bfa18f676d6cd30ad9c 123 main/source/Release
+SHA256:
+ dda42943f610f0e1b71fa5bd7621c426af4439f659dd88672c3da5832a248ff7 2145 main/binary-amd64/Packages
+ fc1a7fdedcbfa8a7008159a1736f4c5ab27304ead896de9b3b83b832da53cd27 860 main/binary-amd64/Packages.gz
+ 7d501743fed601cc18023dace1ed2592f992e78df7e76864e3632a4407887dd5 122 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 5cf136c4b5ec5131ed8a17e3df3748df36ad15ccf0717a307ccd067dc64650b0 121 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ ba4c7421b02f1d37cd0776467f0bb26ad3bd106dc3cdfb5daae1b3d387a8175b 123 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCAAGBQJTB26UAAoJEEaM4jSHhwiygHoP/1dypjWX3TlpmK1P/k13Up+g
+RWyoNw/n2d0L2XrlLSkvB83KxdsqZ9ty5ROX+RPry609+F4x9hOeysTwq+iqIe4y
+LKkd7x6U+cnpboDQZxiWYWu9C5K8mx/cdw+n0P94U61XXnBXqm89+3OFWOMSJj7U
+vu5G38UlAbRCfm3dCr/lh+P0NsfIWM6MrprL/hqjebr5sU+vqYIKvZNpBDWIPEey
+VwCYVcYUpIj6G3rixIwKeLUMznz+aizn4V7KFDSDwfSlbj6E7gwCTR832H383z0I
+7/uys/S3MmlDiyD9Fq5y3TSxLaFMH6aafCD0UkBOpzxWbPTtNQBWiPD8uS6hNslF
+Y8UqDdlMcQjkTJTr53Pf7e/A3l2xYR+B2ikOmyDyXTCRQ1PBHTDNGHl9xOhs6Az2
+p1UIOCACh/Oc17GiUjsEnEO8tCjq4YnkIuEqUbefKLMrTAXqxft2zghezBnRHmiL
+guK/8T9CTi2Q0zK1H2UnyzuMEUvnenmeA+DvqlXVWAyr2wP8knUBe9v7L8pRCCj0
+P2gShSEvb0u7EMENJsleUR4E1rYH9xrSH8UD8UmQiDSm120LInvx5kjetcYpXKDD
+xTXXQl1pxxgbQ328nLn/EVQj3QGtxejCPrS3YQNLRbmJ2hFkp++skZWvgCo0kfyj
+bnuC7XYlbB6afIlMEicY
+=NQ0y
+-----END PGP SIGNATURE-----

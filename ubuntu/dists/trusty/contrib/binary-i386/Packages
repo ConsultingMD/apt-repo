@@ -1,0 +1,26 @@
+Package: virtualbox-5.0
+Version: 5.0.6-103037~Ubuntu~trusty
+Architecture: i386
+Maintainer: Oracle Corporation <info@virtualbox.org>
+Installed-Size: 151960
+Pre-Depends: debconf (>= 1.1) | debconf-2.0
+Depends: libc6 (>= 2.15), libcurl3 (>= 7.16.2), libdevmapper1.02.1 (>= 2:1.02.20), libgcc1 (>= 1:4.1.1), libgl1-mesa-glx | libgl1, libpng12-0 (>= 1.2.13-4), libpython2.7 (>= 2.7), libqt4-network (>= 4:4.5.3), libqt4-opengl (>= 4:4.7.2), libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0), libsdl1.2debian (>= 1.2.11), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6), libvpx1 (>= 1.0.0), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxinerama1, libxml2 (>= 2.7.4), libxmu6, libxt6, zlib1g (>= 1:1.1.4), psmisc, adduser
+Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, dkms, linux-headers, gcc, make, binutils, pdf-viewer, libgl1
+Conflicts: virtualbox, virtualbox-guest-additions-iso, virtualbox-ose
+Replaces: virtualbox
+Provides: virtualbox
+Priority: optional
+Section: contrib/misc
+Filename: pool/contrib/v/virtualbox-5.0/virtualbox-5.0_5.0.6-103037~Ubuntu~trusty_i386.deb
+Size: 63218660
+SHA256: abe3ef2999e5feacd46d1adb45667c91a48274b20f76a9aeb98e04c3054db6b6
+SHA1: fe0e8a4e00313e41574f9be0b2ce59030241ecc1
+MD5sum: 11fc033ce81805d6e38e073e47ccead5
+Description: Oracle VM VirtualBox
+ VirtualBox is a powerful PC virtualization solution allowing you to run a
+ wide range of PC operating systems on your Linux system. This includes
+ Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad
+ feature set and excellent performance, making it the premier virtualization
+ software solution on the market.
+Python-Version: 2.7
+
